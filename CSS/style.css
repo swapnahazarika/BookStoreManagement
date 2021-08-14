@@ -98,3 +98,58 @@ input[type=reset] {
     padding: 5px;
     margin: 5px;
 }
+
+#login-form {
+    padding: 2rem;
+    background: #f4f4f4;
+}
+
+#login-form label {
+    display: block;
+}
+
+#login-form input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+.fetchButton {
+    display: block;
+    text-align: center;
+    width: auto;
+    padding: 16px 32px;
+    border: 0;
+    background: royalblue;
+    color: #fff;
+    border-radius: 5px;
+    margin: 5px 0;
+    margin-left: 35%;
+}
+
+.table {
+    border: 2;
+    border-color: green;
+    border-style: dashed;
+    width: 100%;
+    align-self: center;
+}
+
+.customth {
+    background-color: darkgoldenrod;
+    text-align: center;
+    color: maroon;
+    font-style: bold;
+    border-style: solid;
+}
+
+.customtabledata {
+    background-color: lightpink;
+    text-align: center;
+    color: blue;
+    font-size: small;
+    border-style: solid;
+    border-color: black;
+}
